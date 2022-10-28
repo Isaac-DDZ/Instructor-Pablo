@@ -1,0 +1,28 @@
+/*Hoja de estilos*/
+.flex{
+display: flex;
+}
+#entorno {
+	display: block;
+	background-color: #AABDBF;
+	border-radius: 3rem;
+
+
+}
+
+#fondo {
+	opacity: 0.5;
+
+}
+.titulo {
+	background-color: #BF9D5E;
+	width: 84rem;
+	border-radius: 1rem;
+
+}
+.div1{
+	justify-content: center;
+	margin:auto;
+	padding-left: 10rem;
+
+}
